@@ -6,7 +6,7 @@ import './HeroSection.css';
 function HeroSection() {
   return (
     <div className='hero-container'>
-      <video src='/videos/Dator.mp4' autoPlay loop muted playsinline />
+      <video src='/videos/Dator.mp4' autoPlay loop muted playsInline />
       <h1>Välkommen till DiagTech</h1>
       <p>Webb utväckling</p>
       <div className='hero-btns'>
